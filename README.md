@@ -84,4 +84,5 @@ Developing a comprehensive curriculum for an introductory programming course inv
 <img width="1429" alt="Снимок экрана 2024-04-27 в 16 21 55" src="https://github.com/Beishenalievv/Situational-tusks/assets/72735965/6ec6f4f7-3c20-4171-adc0-bda410d8b3ea">
 <img width="1431" alt="Снимок экрана 2024-04-27 в 16 22 13" src="https://github.com/Beishenalievv/Situational-tusks/assets/72735965/308cd7ea-5d24-4f73-8b60-746f17d6f789">
 
+Video Link : https://drive.google.com/drive/folders/1OBYeh6PJ5m3IiBw0aJwQJqekAkwy-nfs?usp=share_link
 
