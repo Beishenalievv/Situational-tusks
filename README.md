@@ -1,4 +1,4 @@
-# Situational-tusks
+# Situational-tasks
 Bakbergen Beishenaliev COM20
 
 Task 2
